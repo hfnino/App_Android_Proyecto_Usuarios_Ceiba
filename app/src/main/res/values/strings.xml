@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Prueba de Ingreso - Ceiba</string>
+    <string name="text_PDI">PRUEBA DE INGRESO</string>
+    <string name="text_CARG">Cargando ...</string>
+    <string name="text_BUSUSR">Buscar usuario</string>
+    <string name="text_nombreUser">Nombre del usuario</string>
+    <string name="text_numTel">Número Teléfonico</string>
+    <string name="text_Email">Correo Electrónico</string>
+    <string name="text_VERP">VER PUBLICACIONES</string>
+    <string name="text_InfoUser">--- Información del Usuario ---</string>
+    <string name="text_InfoPublic">--- PUBLICACIONES ---</string>
+    <string name="text_postTitle">Titulo de la publicación</string>
+    <string name="text_postBody">Descripción de la publicación</string>
+    <string name="text_ListEmpty">List is empty</string>
+
+</resources>
